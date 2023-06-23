@@ -14,7 +14,7 @@ This frontend website was created during Developing Internet Systems 1 (client s
 Homepage:
 
 ![תמונה](https://github.com/LotemWolbrum/MySuccoTLV_website/assets/105001516/212c7810-a10d-4b2c-932e-5b3e76898e14)
-![תמונה](https://github.com/LotemWolbrum/MySuccoTLV_website/assets/105001516/451d04c2-2b3b-4202-89f2-6092e20ff87e)
+![תמונה](https://github.com/LotemWolbrum/MySuccoTLV_website/assets/105001516/735404b0-1a8e-401d-9ef4-aea0dcfcaed4)
 
 Main store page:
 
