@@ -1,4 +1,4 @@
-# My Succu TLV
+![תמונה](https://github.com/LotemWolbrum/MySuccoTLV_website/assets/105001516/5f33722b-776f-4c83-bf52-27d527831b33)# My Succu TLV
 
 This frontend website was created during Developing Internet Systems 1 (client-side) course in my Industrial Engineering Management degree. It developed in collaboration with a team of 2 members, including myself, for a small business that sells plants that are personally suited to the designated space it will be located in.
 
@@ -13,7 +13,7 @@ This frontend website was created during Developing Internet Systems 1 (client-s
 
 Homepage:
 
-![תמונה](https://github.com/LotemWolbrum/MySuccoTLV_website/assets/105001516/212c7810-a10d-4b2c-932e-5b3e76898e14)
+![תמונה](https://github.com/LotemWolbrum/MySuccoTLV_website/assets/105001516/f0ad763c-362c-4397-ae9d-c6dfa566f66a)
 ![תמונה](https://github.com/LotemWolbrum/MySuccoTLV_website/assets/105001516/735404b0-1a8e-401d-9ef4-aea0dcfcaed4)
 
 Main store page:
